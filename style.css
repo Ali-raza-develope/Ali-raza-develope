@@ -372,7 +372,6 @@ body{
     }
 
     #page2 .elem .dets-part{
-        height: 45px;
         width: 60%;
     }
 
@@ -404,6 +403,9 @@ body{
     #content-part .paragraph span{
         border-bottom: 2px solid #000;
     }
+
+    .conten-2019 a{
+        font-size: 1rem;
 
     #page3 .children {
         width: 98vw;
